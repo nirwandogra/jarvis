@@ -5,3 +5,6 @@ module.exports = (robot) ->
 
      robot.respond /kamine/i , (res) ->
        res.reply ("Bhak Saale")
+
+     robot.hear /(.*)slackbot(.*)/i, (res) ->
+      res.send ("shutup @slackbot . u dont know nothing :P ")
