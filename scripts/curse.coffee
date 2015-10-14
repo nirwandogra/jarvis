@@ -1,5 +1,5 @@
 curses = [
-  "bhak sala","bhak sala","bhak sala","bhak sala","bhak sala","bhak sala","bhak sala",
+  "bhak sala","Soover","bhak sala","bhak sala","bhak sala","bhak sala","bhak sala",
   "bhak sala","bhak sala","bhak sala","bhak sala","bhak sala","bhak sala","bhak sala"
 ]
 module.exports = (robot) ->
